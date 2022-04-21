@@ -1,4 +1,4 @@
-# blake2b
+# BLAKE2b 
 A naive implementation of the BLAKE2b hashing algorithm to learn.
 
 The goal of this project is to understand how the algorithm works as a base of knowledge for future contributions on the [Polkadot](https://github.com/paritytech/polkadot) project.
